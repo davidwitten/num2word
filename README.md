@@ -1,5 +1,5 @@
 # num2word 
-Converts numbers from 1 to 1 quintillion (exclusive) into words
+Converts numbers from 1 to 1 septillion (10 ** 24) (exclusive) into words
 Example:
 ---
     >>> import num2word
